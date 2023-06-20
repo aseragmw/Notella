@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180618100414",
+    "project_id": "notella-app",
+    "storage_bucket": "notella-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180618100414:android:279a375d4fe386e565a8ef",
+        "android_client_info": {
+          "package_name": "com.example.notella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180618100414-djeqfmn0ltecc7skegpejuej35emfb9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtD_Ao2U_wUXc1TC7kgo_gftx1QxlFePk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180618100414-djeqfmn0ltecc7skegpejuej35emfb9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
